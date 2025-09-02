@@ -1,0 +1,2 @@
+Process 0 sent data (Bsend) 500 to process 1
+Process 1 received data (Bsend) 500 from process 0
