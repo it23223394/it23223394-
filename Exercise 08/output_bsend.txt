@@ -1,5 +1,0 @@
-Process 1 sending data using Bsend
-Just a normal process: rank 0
-Process 3 received data using Bsend:
-0 10 20 30 40 50 60 70 80 90 
-Just a normal process: rank 2
