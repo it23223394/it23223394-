@@ -1,0 +1,1 @@
+Sum of numbers from 1 to 10000000 = 50000005000000
